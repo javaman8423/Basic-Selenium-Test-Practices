@@ -40,4 +40,6 @@ public class Test01 {
         Thread.sleep(3000);
 
     }
+    // Merhaba bu ilk class'ta bir takım değişiklikler yaptım eğer
+    // size uygun görürseniz lütfen pull request'imi kabul edin teşekkür ederim
 }
